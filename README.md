@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [[https://rumaiqarif.github.io/portfolio2/](https://rumaiqarif.github.io/portfolio2/)](https://rumaiqarif.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at[(https://rumaiqarif.github.io/portfolio2/)]
 
 - 💬 Ask me about **HTML, CSS,JS ,PHP, C**
 
