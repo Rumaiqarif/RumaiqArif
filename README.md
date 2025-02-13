@@ -21,5 +21,8 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
 
-
+## 📌 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumaiqarif&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>  
 
