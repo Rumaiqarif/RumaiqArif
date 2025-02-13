@@ -15,9 +15,3 @@
 
 - ⚡ Fun fact **I've been known to start a dance party in an empty room.**
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumaiqarif&show_icons=true&locale=en&layout=compact" alt="rumaiqarif" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rumaiqarif&show_icons=true&locale=en" alt="rumaiqarif" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumaiqarif&" alt="rumaiqarif" /></p>
